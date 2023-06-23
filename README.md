@@ -38,6 +38,6 @@ To cite this project in publications use:
 
 - [H.-C. So, et al., “Uncovering the total heritability explained by all true susceptibility variants in a genome-wide association study,” Genetic Epidemiology, vol. 35, no. 6, 2011, pp. 447-456; DOI https://doi.org/10.1002/gepi.20593.](https://doi.org/10.1002/gepi.20593)
 
-- [So, H. C., & Sham, P. C. (2015). SumVg: Total heritability explained by all variants in genome-wide association studies based on summary statistics with standard error estimates. bioRxiv, 016857.](https://www.biorxiv.org/content/10.1101/016857v1.full.pdf)
+- [So, H. C., Xue, X. & Sham, P. C. (2023). SumVg: Total heritability explained by all variants in genome-wide association studies based on summary statistics with standard error estimates.
 
 
