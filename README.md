@@ -31,6 +31,7 @@ SumVg(zall=zall, totalN=10000, method="jack", d=2000, repl=5,out="unconditional"
 \#\# assume the outcome is binary
 
 \#\# SE and MAF are made up for reference only
+
 SumVg.binary(zall=zall, method="paraboot", d=1, repl=5, out="unconditional", SE= rep(0.1,10000), K=0.01, MAF=rep(0.2, 10000) )
 
 #### Citation
