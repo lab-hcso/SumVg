@@ -6,7 +6,7 @@ Example:
 
 \# install SumVg first by downloading the package first to local drive
 
-install.packages("C:\\SumVg_1.0.tar.gz", repos=NULL)
+install.packages("C:/SumVg_1.0.tar.gz", repos=NULL)
 
 \# installation of sfsmisc and locfdr 
 
