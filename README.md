@@ -4,7 +4,9 @@ The R package SumVg provides estimates of the sum of heritability explained by a
 
 Example:
 
-\# install SumVg first
+\# install SumVg first by downloading the package first to local drive
+
+install.packages("C:\\SumVg_1.0.tar.gz", repos=NULL)
 
 \# installation of sfsmisc and locfdr 
 
