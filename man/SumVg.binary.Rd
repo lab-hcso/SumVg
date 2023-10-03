@@ -74,7 +74,8 @@ Hon-Cheong So
 ##simulate z-statistics under the complete null
 ## SE and MAF are made up for reference only
 zall = rnorm(n=1000)
-SumVg.binary(zall=zall, method="paraboot", d=1, repl=5, out="unconditional", SE= rep(0.1,1000), K=0.01, MAF=rep(0.2, 1000) )
+SumVg.binary(zall=zall, method="paraboot", d=1, repl=5, out="unconditional", 
+	     SE= rep(0.1,1000), K=0.01, MAF=rep(0.2, 1000) )
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.

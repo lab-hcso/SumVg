@@ -9,8 +9,7 @@ This function estimates the sum of variance explained (i.e. heritbaility) by all
 with standard error estimate
 }
 \usage{
-SumVg(zall, totalN, method = "paraboot", d = 1, repl = 50,
-out = "unconditional")
+SumVg(zall, totalN, method = "paraboot", d = 1, repl = 50, out = "unconditional")
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
