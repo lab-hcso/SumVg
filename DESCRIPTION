@@ -7,8 +7,11 @@ Version: 1.0
 Author: Hon-Cheong SO
 Maintainer: Hon-Cheong SO <hcso@cuhk.edu.hk>
 Description: This package estimates SNP-based heritability in GWAS based on summary statistics, and provides standard error (SE) estimates of the heritability.
-    The method is based on an empirical Bayes approach, and does not require any distributional assumptions of the SNP effects. 
+    The method is based on an empirical Bayes approach, and does not require any distributional assumptions of the SNP effects.
+Imports:
+    locfdr, sfsmisc
 License: CC BY-NC-SA 4.0
 Encoding: UTF-8
 NeedsCompilation: no
 Packaged: 2023-05-31 11:38:19 UTC; hcso8
+
