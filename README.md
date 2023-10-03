@@ -22,10 +22,6 @@ install.packages("C:/SumVg_1.0.tar.gz", repos=NULL)
 ### Usage
 
 ```R
-install.packages("sfsmisc")
-install.packages("locfdr")
-library(sfsmisc)
-library(locfdr)
 library(SumVg)
 
 ## Simulate z-statistics under the complete null for testing
