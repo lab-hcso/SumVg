@@ -2,7 +2,7 @@
 Hon-Cheong SO
 
 ### Introduction
-The R package SumVg provides estimates of the sum of heritability explained by all true susceptibility variants in GWAS. We have also recently derived methods to estimate the standard error (SE) based on re-sampling approaches. These methods have been implemented in the R package SumVg. 
+The R package SumVg provides estimates of the sum of heritability explained by all true susceptibility variants in GWAS. We have also recently derived methods to estimate the standard error (SE) based on re-sampling approaches. These methods have been implemented in the R package SumVg. Please also refer to SumVg.pdf for a detailed documentation of the program.
 
 ### Installation
 To install the SumVg R package from GitHub using `devtools`, run
